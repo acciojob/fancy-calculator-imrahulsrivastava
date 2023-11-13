@@ -9,5 +9,5 @@ let fancyCalculator = (first, second) => {
 const first = prompt("Enter the first number - ");
 const second = prompt("Enter the second number - ");
 alert(
-  "The final result is : " + fancyCalculator(parseInt(first), parseInt(second))
+  "The final result is: " + fancyCalculator(parseInt(first), parseInt(second))
 );
